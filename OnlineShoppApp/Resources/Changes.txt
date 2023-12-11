@@ -1,0 +1,10 @@
+﻿- Update the project structure
+- Remove Category class
+- Make CartItem a simple class
+- Remove CartItem from Database context
+- Remove ShoppingCart from Batabase Context
+- Make Order a simple class
+- Remove ShoppingCart class
+- Remove SoldProduct class
+- Remove Stock Class
+- Remove stock class from Database context

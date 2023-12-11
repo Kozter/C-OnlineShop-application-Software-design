@@ -1,0 +1,393 @@
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.AssemblyReference.cache
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfoInputs.cache
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfo.cs
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CoreCompileInputs.cache
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.deps.json
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.runtimeconfig.json
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.pdb
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CopyComplete
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/refint/OnlineShoppApp.dll
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.pdb
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.genruntimeconfig.cache
+/Users/jorge/Downloads/OnlineShoppApp-master/OnlineShoppApp/obj/Debug/net7.0/ref/OnlineShoppApp.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.exe
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.deps.json
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.runtimeconfig.json
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.pdb
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.AssemblyReference.cache
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.GeneratedMSBuildEditorConfig.editorconfig
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfoInputs.cache
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfo.cs
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CoreCompileInputs.cache
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CopyComplete
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/refint/OnlineShoppApp.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.pdb
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.genruntimeconfig.cache
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/ref/OnlineShoppApp.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Humanizer.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/System.CodeDom.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+E:/cSharp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.exe
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.deps.json
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.runtimeconfig.json
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.pdb
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Humanizer.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.AssemblyReference.cache
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfoInputs.cache
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfo.cs
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CoreCompileInputs.cache
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CopyComplete
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/refint/OnlineShoppApp.dll
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.pdb
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.genruntimeconfig.cache
+C:/Users/sir_k/Downloads/OnlineShoppApp/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/ref/OnlineShoppApp.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.deps.json
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.runtimeconfig.json
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.pdb
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Humanizer.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/System.CodeDom.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.AssemblyReference.cache
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfoInputs.cache
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfo.cs
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CoreCompileInputs.cache
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CopyComplete
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/refint/OnlineShoppApp.dll
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.pdb
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.genruntimeconfig.cache
+/Users/jorge/Downloads/_3711380_/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/ref/OnlineShoppApp.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.deps.json
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.runtimeconfig.json
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/OnlineShoppApp.pdb
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Humanizer.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/System.CodeDom.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.AssemblyReference.cache
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfoInputs.cache
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.AssemblyInfo.cs
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CoreCompileInputs.cache
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.csproj.CopyComplete
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/refint/OnlineShoppApp.dll
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.pdb
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/OnlineShoppApp.genruntimeconfig.cache
+/Users/jorge/Downloads/PG3302 Software Design/OnlineShoppApp/OnlineShoppApp/obj/Debug/net7.0/ref/OnlineShoppApp.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\OnlineShoppApp.exe
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\OnlineShoppApp.deps.json
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\OnlineShoppApp.runtimeconfig.json
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\OnlineShoppApp.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\OnlineShoppApp.pdb
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.csproj.AssemblyReference.cache
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.AssemblyInfoInputs.cache
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.AssemblyInfo.cs
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.csproj.CoreCompileInputs.cache
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.csproj.CopyComplete
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\refint\OnlineShoppApp.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.pdb
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\OnlineShoppApp.genruntimeconfig.cache
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\obj\Debug\net7.0\ref\OnlineShoppApp.dll
+C:\Users\Ling\Downloads\PG3302 Software Design\PG3302 Software Design\OnlineShoppApp\OnlineShoppApp\bin\Debug\net7.0\Resources\shopping.db

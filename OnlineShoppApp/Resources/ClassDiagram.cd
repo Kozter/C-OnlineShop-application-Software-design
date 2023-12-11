@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnlineShoppApp.Models.Customer" Collapsed="true">
+    <Position X="14.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAACAAAAAAAAAAAAQAAAAAAAACAIAAAAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShoppApp.Models.Order" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEDAAAEEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShoppApp.Data.CustomerRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAABIAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\CustomerRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShoppApp.Data.OrderLineRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAABAAAAAAAAAEAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\OrderLineRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShoppApp.Data.OrderRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAABAAAAAABAAEAAAAACAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\OrderRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShoppApp.Data.PaymentRepository" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAECAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Data\PaymentRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShoppApp.Data.ShoppingContext" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEQBAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Data\ShoppingContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineShoppApp.Service.CustomerService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACQQAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\CustomerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShoppApp.Service.OrderLineService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Service\OrderLineService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShoppApp.Service.OrderService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAABIAAAgAAACAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Service\OrderService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShoppApp.Service.ProductService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Service\ProductService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OnlineShoppApp.Service.ShoppingCartService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAABAAAAIAAAAAAAAAAAAAAACAAAAAAACA=</HashCode>
+      <FileName>Service\ShoppingCartService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OrderLine" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAECAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\OrderLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Payment" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAECAAAAAAEAAAAAAAAQAACAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Product" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAAAAAAAAQAAAAAAAAAAgAAAAAACAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductRepository" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAIAAABAAAAAAAAAAASAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\ProductRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineShoppApp.Program">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAEAAAAAAIAgAAAAAABAAACAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OnlineShoppApp.Data.ICustomerRepository" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAIAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\ICustomerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShoppApp.Data.IOrderLineRepository" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\IOrderLineRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShoppApp.Data.IOrderRepository" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAABAAEAAAAACAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\IOrderRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShoppApp.Data.IProductRepository" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAIAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\IProductRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShoppApp.Service.ICustomerService" Collapsed="true">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACQQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\ICustomerService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShoppApp.Service.IOrderLineService" Collapsed="true">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Service\IOrderLineService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShoppApp.Service.IOrderService" Collapsed="true">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABIAAAgAAACAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Service\IOrderService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShoppApp.Service.IProductService" Collapsed="true">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Service\IProductService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineShoppApp.Service.IShoppingCartService" Collapsed="true">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Service\IShoppingCartService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
