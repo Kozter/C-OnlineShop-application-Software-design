@@ -1,5 +1,7 @@
 # C-OnlineShop-application-Software-design
-This involves designing a software solution, then programming the software solution in C#.
+This involves:
+#####  -Designing a software solution
+##### -Programming the software solution in C#.
 
 # Design a software solution
 The solution covers the standard 3-layer architecture.
